@@ -97,6 +97,10 @@
     max-width: 1140px;
     margin: 0 auto;
   }
+  main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+  }
   .about{
     border-radius: 10px;
     padding: 130px 150px;
@@ -109,3 +113,14 @@
   .item-description{
     font-weight: 600;
   }
+  .text-center{
+    text-align: center;
+  }
+  .skills-container{
+    display: flex;
+    gap: 24px;
+  }
+  .skill{
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 50x 0px rgba(0, 0, 0, 0.06)}
